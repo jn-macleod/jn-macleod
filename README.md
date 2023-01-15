@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, I'm Johanna 👋
+
+:ocean: I'm a full-stack developer currently working at [Kumojin](https://www.kumojin.com) out of Montreal, Quebec.
+
+🌱 Lately, I've been interested in modern web frameworks and learning various stacks and frameworks around React, Vue, Node, but also Nest, Remix, Next..
+
+🔭 In the past I've worked with PHP, some Java. In a past life I developed Flash/ActionScript and even ASP.
+
+🌈 On the horizon I'm looking to try out iOS app development...
+
+<!-- #### Languages and Tools: //-->
+
 
 <!--
 **jn-macleod/jn-macleod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
