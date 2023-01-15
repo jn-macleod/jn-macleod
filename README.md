@@ -6,8 +6,6 @@
 
 🔭 In the past I've worked with PHP, some Java, Angular.js, JavaScript, Flash/ActionScript and even ASP.
 
-🌈 On the horizon I'm looking to try out iOS app development...
-
 <!-- #### Languages and Tools: //-->
 
 
