@@ -4,7 +4,7 @@
 
 🌱 Lately, I've been interested in modern web frameworks and learning various stacks and frameworks around React, Vue, Node, but also Nest, Remix, Next..
 
-🔭 In the past I've worked with PHP, some Java, Angular.js, JavaScript, Flash/ActionScript and even ASP.
+🔭 In the past I've worked with PHP, some Java, Vue.js, Angular.js, JavaScript...
 
 <!-- #### Languages and Tools: //-->
 
