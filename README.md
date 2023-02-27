@@ -1,6 +1,6 @@
 ### Hi, I'm Johanna 👋
 
-:ocean: I'm a full-stack developer currently working at [Kumojin](https://www.kumojin.com) out of Montreal, Quebec.
+:ocean: I'm a full-stack developer currently working out of Montreal, Quebec.
 
 🌱 Lately, I've been interested in modern web frameworks and learning various stacks and frameworks around React, Vue, Node, but also Nest, Remix, Next..
 
