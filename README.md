@@ -2,7 +2,7 @@
 
 :ocean: I'm a full-stack developer currently working out of Montreal, Quebec.
 
-🌱 Lately, I've been interested in modern web frameworks and learning various stacks and frameworks around React, Vue, Node, but also Nest, Remix, Next..
+🌱 Lately, I've been interested in modern web frameworks and learning various stacks and frameworks around React, Vue, Node, Nest..
 
 🔭 In the past I've worked with PHP, some Java, Vue.js, Angular.js, JavaScript...
 
