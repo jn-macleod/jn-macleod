@@ -1,12 +1,14 @@
-### Hi there 👋, I'm Johanna MacLeod!
+### Hi there 👋
 
-:ocean: I'm a full-stack developer currently working out of Montreal, Quebec. You can find me on [LinkedIn](https://ca.linkedin.com/in/johannamacleod).
+:ocean:&#8193; I'm Johanna MacLeod, a full-stack developer currently working out of Montreal, Quebec. You can find me on [LinkedIn](https://ca.linkedin.com/in/johannamacleod).
 
-🌱 Lately, I've been interested in learning the latest stacks and frameworks around React, Vue, Node...
+🌱&#8193; Lately, I've been interested in learning the latest stacks and frameworks around React, Vue, Node...
 
-🔭 In the past I've worked with PHP, Vue.js, Angular.js, JavaScript, some Java, ...
+🔭&#8193; In the past I've worked with PHP, Vue.js, Angular.js, JavaScript, some Java, ...
 
-⚡ Fun fact: I've also worked out of San Diego, CA; Victoria, BC; and Boston, MA.
+🏡&#8193; Fun fact: I've also worked out of San Diego, CA; Victoria, BC; and Boston, MA.
+
+⚡&#8193; You can find me on [LinkedIn]
 
 <!-- #### Languages and Tools: //-->
 #### Languages and Tools
