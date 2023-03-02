@@ -6,8 +6,6 @@
 
 🔭&#8193; In the past I worked with several PHP frameworks and CMS applications, Angular.js, Flash/ActionScript, ASP, Java, and various flavours of SQL ...
 
-🏡&#8193; Fun fact: I've also worked out of San Diego, CA; Victoria, BC; and Boston, MA.
-
 ⚡&#8193; You can find me on [LinkedIn](https://ca.linkedin.com/in/johannamacleod)
 
 <!-- #### Languages and Tools: //-->
