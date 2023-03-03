@@ -4,7 +4,7 @@
 
 🌱&#8193; Lately, I've been interested in learning the latest stacks and frameworks around React, Vue, Node...
 
-🔭&#8193; In the past I worked with several PHP frameworks and CMS applications, Angular.js, Flash, ASP, Java, and various flavours of SQL ...
+🔭&#8193; In the past I worked with several PHP frameworks and CMS applications, Angular.js, Flash, ASP, Java, SQL & MongoDB ...
 
 ⚡&#8193; You can find me on [LinkedIn](https://ca.linkedin.com/in/johannamacleod)
 
@@ -21,8 +21,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" alt="Laravel logo vector" width="auto" height="40px">&#8192
-  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector" width="auto" height="40px">&#8192
-  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo vector" width="auto" height="40px">&#8192
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector" width="auto" height="40px">&#8192
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo vector" width="auto" height="40px">&#8192
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Icon logo vector" width="auto" height="40px">&#8192
 </p>
 
 #### GitHub Stats:
