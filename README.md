@@ -2,7 +2,7 @@
 
 :ocean:&#8193; I'm Johanna MacLeod, a full-stack developer currently working out of Montreal, Quebec. 
 
-🌱&#8193; Lately, I've been learning the latest frameworks and stacks around React, Vue, and Node... like Nest.js and Remix.
+🌱&#8193; Lately, I've been working on and learning the latest frameworks and stacks around React, Vue, and NodeJS... like NestJS and Remix.js
 
 🔭&#8193; In the past I worked with several PHP frameworks and CMS applications, Angular.js, Flash, ASP, Java, SQL & MongoDB ...
 
