@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:ocean:&#8193; I'm Johanna MacLeod, a full-stack developer currently working out of Montreal, Quebec. 
+:ocean:&#8193; I'm Johanna MacLeod, a software developer currently working out of Montreal, Quebec. 
 
 🌱&#8193; Lately, I've been working on and learning Next.js, Swift/iOS, and taken a look at Matoko.
 
