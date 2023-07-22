@@ -11,8 +11,8 @@
 <!-- #### Languages and Tools: //-->
 #### Languages and Tools
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Js logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Vue Js logo vector" width="auto" height="40px">&#8192
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Js logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo vector" width="auto" height="40px">&#8192
