@@ -2,7 +2,7 @@
 
 :ocean:&#8193; I'm Johanna MacLeod, a software developer currently working out of Montreal, Quebec. 
 
-🌱&#8193; Lately, I've been working on and learning Next.js, Swift/iOS, and taken a look at Matoko.
+🌱&#8193; Lately, I've been working on and learning Apollo GraphQL and AWS serverless with Node.js, React, and TypeScript.
 
 🔭&#8193; In the past I worked with several PHP frameworks and CMS applications, Angular.js, Flash, ASP, Java, SQL & MongoDB ...
 
