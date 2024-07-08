@@ -13,10 +13,8 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Vue Js logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue Js logo vector" width="auto" height="40px">&#8192
-  <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo vector" width="auto" height="40px">&#8192
-  <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="WordpPess icon logo vector"  width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/drupal.svg" alt="Drupal logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector" width="auto" height="40px">&#8192
