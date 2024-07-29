@@ -15,10 +15,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue logo vector" title="Vue" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector" title="Javascript" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo vector" title="Typescript" width="auto" height="40px">&#8192
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo vector" title="Docker" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo vector" title="Node.js" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="Apollo GraphQL logo vector" title="Apollo GraphQL" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-64-1.svg" alt="AWS Lambda vector log" title="AWS Lambda" width="auto" height="40px">&#8192
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo vector" title="Docker" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS logo vector" title="Tailwind CSS logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector" width="auto" height="40px">&#8192
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Icon logo vector" width="auto" height="40px">&#8192
